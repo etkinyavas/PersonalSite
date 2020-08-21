@@ -1,0 +1,281 @@
+body {
+  color: #40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: "merriweather", serif;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 0;
+  font-family: Sacramento;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: Montserrat Alternates;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: Montserrat Alternates;
+  color: #11999E;
+
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto;
+}
+
+.intro{
+  width: 20%
+  margin: auto;
+
+
+}
+
+.industrial {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e0ece4;
+  padding-top: 100px;
+}
+
+.middle-container{
+ margin: 100px 0;
+}
+
+.me {
+  height: 100px;
+  width: 100px;
+
+
+}
+
+.gif{
+
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.plan{
+
+  width: 20%;
+float: right;
+
+
+}
+
+.sql{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.matlab{
+  width: 20%;
+float: right;
+}
+
+.html{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.powerbi{
+  width: 20%;
+float: right;
+}
+
+.grafik{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact{
+  width: 15%;
+  margin: 40px auto 60px;
+}
+
+.mountain {
+  width: 1000px;
+  height: 500px;
+  position: relative;
+  top: 5px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row{
+  width: 30%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding:  40px 0px 20px;
+}
+
+a{
+  color: #11999e;
+  font-family: Montserrat Alternates;
+  margin: 20px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 14px;
+  padding: 20px 0px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat Alternates;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AE);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AE);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AE);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AE);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AE);
+  text-decoration: none;
+}
+
+/* ABOUT SAYFASI */
+.first-container{
+  background-color: #e0ece4;
+  padding-top: 40px;
+  padding-right: 200px;
+  float: right;
+}
+
+.about-container{
+  background-color: #e0ece4;
+  padding-top: 100px;
+  position: relative;
+  padding-bottom: 120px;
+  line-height: 2;
+
+}
+.about{
+  font-size: 16px;
+  font-weight: bold;
+
+}
+
+.cloud1{
+  height: 150px;
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  bottom: 50px;
+
+}
+
+.cloud2{
+  height: 150px;
+  width: 200px;
+  position:absolute;
+  bottom: 120px;
+  left: 1100px;
+
+}
+
+.info{
+  height: 100px;
+  width: 100px;
+
+}
+.aboutmiddle-container{
+  margin:100px 0px;
+}
+
+.laf{
+  width: 60%;
+  margin: auto;
+
+}
+.volleyball{
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+.ski{
+  width: 40%;
+  float: right;
+}
+
+.social{
+  margin-top: 50px;
+}
+
+.aboutbottom-container{
+  background-color: #66bfbf;
+  margin-top: 50px;
+  padding: 50px 0px;
+}
+
+/* PROJECTS*/
+
+.project{
+  height: 100px;
+  width: 100px;
+
+}
+
+.project-container{
+  background-color: #e0ece4;
+  padding-top: 80px;
+
+
+}
+
+.aa{
+  padding-left: 800px;
+  font-weight: bold;
+}
+
+.ab{
+  font-weight: bold;
+}
